@@ -1,0 +1,22 @@
+{
+  "name": "ドッグケアレッスン",
+  "short_name": "犬レッスン",
+  "description": "ベーストレーニング練習アプリ",
+  "start_url": "/dog-care-lesson/index01.html",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#2c2416",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "osuwari.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "osuwari.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
